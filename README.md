@@ -39,7 +39,7 @@ I operate equally at the architecture table and in the code. I can threat-model 
 
 ### Background
 
-Global Lead, Application Security Engineering at Mastercard. Former Lead Cybersecurity Solution Architect, Principal Vulnerability Management Architect, and Technical Lead across financial services, energy, and critical infrastructure.
+Global Lead, Application Security Engineering at Mastercard. Former Lead Cybersecurity Solution Architect, Principal Vulnerability Management Architect, and Technical Security Leader across financial services, energy, and critical infrastructure.
 
 IEEE published researcher, presented at the International Conference on Digital Forensics in Amsterdam. Guest Lecturer in graduate cybersecurity at Concordia University of Edmonton for 5 years.
 
